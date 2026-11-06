@@ -8,3 +8,9 @@ Meine Notizen, KI-Prompts und Lernfortschritte.
 
 ### 📌 Meine nützlichsten KI-Prompts
 *(Hier sammle ich ab sofort die besten Prompts)*
+
+LinkedIn-Kurs: "Git und GitHub lernen" gestartet:
+
+Git ist wie ein riesiges Stgr-Z, wo man viele Schritte rückgängig machen kann.
+Zwischenspeicherung nennt man "Commit".
+<img width="592" height="286" alt="image" src="https://github.com/user-attachments/assets/0d1eaad7-2b01-482d-b11c-4055eca5105b" />
