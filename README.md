@@ -16,4 +16,7 @@ Zwischenspeicherung nennt man "Commit".
 <img width="592" height="286" alt="image" src="https://github.com/user-attachments/assets/0d1eaad7-2b01-482d-b11c-4055eca5105b" />
 
 IFTTT AI App auf Desktop und Mobile runtergeladen:
-Momentan arbeite ich mit IFTTT am Desktop
+Momentan arbeite ich mit IFTTT am Desktop.
+Gestoppt! weil ich nicht weiß was damit gemacht werden kann.
+
+<img width="623" height="189" alt="image" src="https://github.com/user-attachments/assets/f4b158f6-71cd-4c2f-b6c9-7f4d086574d6" />
